@@ -1,0 +1,112 @@
+[
+    {
+        "name": "County Offices Bus Stop",
+        "type": "Public Transport",
+        "address": "62-82 Newland, Lincoln",
+        "coords": {
+            "latitude": 53.230649,
+            "longitude": -0.545986
+        },
+        "image_url": "https://images.unsplash.com/photo-1563376043-8ad2936236fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+    },
+    {
+        "name": "Cafe Shanti",
+        "type": "Vegan Restaurant",
+        "address": "6 Clasketgate, Lincoln LN2 1JS",
+        "coords": {
+            "latitude": 53.230572,
+            "longitude": -0.539507
+        },
+        "image_url": "https://media-cdn.tripadvisor.com/media/photo-s/0f/0e/bc/b0/cafe-shanti.jpg"
+    },
+    {
+        "name": "Lincoln Train Station",
+        "type": "Public Transport",
+        "address": "Ticket Hall, A57, Lincoln LN5 7EW",
+        "coords": {
+            "latitude": 53.226315,
+            "longitude": -0.539468
+        },
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/LincolnCentral_2017.png"
+    },
+    {
+        "name": "Pimento Lincoln’s Original Vegetarian Café",
+        "type": "Vegan Restaurant",
+        "address": "27 Steep Hill, Lincoln LN2 1LU",
+        "coords": {
+            "latitude": 53.233930,
+            "longitude": -0.538866
+        },
+        "image_url": "https://lh5.googleusercontent.com/p/AF1QipPXP3L6f5k2wJO4L5u1Rl5UZzKwv1yIQYuewXM1=w408-h544-k-no"
+    },
+    {
+        "name": "Lincoln City Bus Station",
+        "type": "Public Transport",
+        "address": "Melville St, Lincoln LN5 7HW",
+        "coords": {
+            "latitude": 53.227543,
+            "longitude": -0.537862
+        },
+        "image_url": "https://lh5.googleusercontent.com/p/AF1QipPSyEuDfTb8XeC4n60KbMrS1b0kgmMYOfjUadAg=w408-h306-k-no"
+    },
+    {
+        "name": "The Mint Box",
+        "type": "Vegan Juice Bar",
+        "address": "City Square, Sincil St, Lincoln LN5 7ET",
+        "coords": {
+            "latitude": 53.228175,
+            "longitude": -0.539100
+        },
+        "image_url": "https://lh5.googleusercontent.com/p/AF1QipPvztvCIB0h79THA0Kej0WD-6Cxxv5mDkEAfZsv=w408-h276-k-no"
+    },
+    {
+        "name": "Wagamama",
+        "type": "Vegan Option Restaurant",
+        "address": "Brayford Wharf N, Lincoln LN1 1YX",
+        "coords": {
+            "latitude": 53.228732,
+            "longitude": -0.544405
+        },
+        "image_url": "https://lh5.googleusercontent.com/p/AF1QipNrKRA2as5Piv7lciVmE9NqVkMP3_sVQ4CeHaFV=w426-h240-k-no"
+    },
+    {
+        "name": "East West Link Road Bus Stop",
+        "type": "Bus Stop",
+        "address": "Lincoln LN5 7ED",
+        "coords": {
+            "latitude": 53.224778,
+            "longitude": -0.538039
+        },
+        "image_url": "https://geo3.ggpht.com/cbk?panoid=i3Tf4vh7pjnEsXHmSKpuOg&output=thumbnail&cb_client=search.gws-prod.gps&thumb=2&w=408&h=240&yaw=326.02615&pitch=0&thumbfov=100"
+    }, 
+    {
+        "name": "Carholme Chippy",
+        "type": "Vegan Option Restaurant",
+        "address": "47 Carholme Rd, Lincoln LN1 1RN",
+        "coords": {
+            "latitude": 53.230998,
+            "longitude": -0.549319
+        },
+        "image_url": "https://lh5.googleusercontent.com/p/AF1QipMgihLau-GlQX8NkH8DbldY-lAj5G-XQKHPLBDk=w408-h260-k-no"
+    }, 
+    {
+        "name": "The Bowl Full Tapas Bar",
+        "type": "Vegan Option Restaurant",
+        "address": "185 W Parade, Lincoln LN1 1QS",
+        "coords": {
+            "latitude": 53.235433,
+            "longitude": -0.554974
+        },
+        "image_url": "https://lh5.googleusercontent.com/p/AF1QipM4BbYayKsN0acqIjDRDFJXBLvv8_G5zxVuRTld=w408-h306-k-no"
+    },
+    {
+        "name": "Grow Lincoln Community Herb Garden",
+        "type": "Community Garden",
+        "address": "Yarborough Rd, Lincoln LN1 1HS",
+        "coords": {
+            "latitude": 53.234992,
+            "longitude": -0.547608
+        },
+        "image_url": "https://lh5.googleusercontent.com/p/AF1QipP7nelZ2OEUTouenMdqPnJG_AgLcPe1TGx32LDS=w408-h408-k-no"
+    }
+]
